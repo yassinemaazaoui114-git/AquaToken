@@ -22,6 +22,14 @@ Use less than your quota, earn tokens, and trade them for farming equipment.
 
 ---
 
+## 🎬 Demo
+
+<!-- DEMO VIDEO: in the GitHub web editor, delete this comment line and drag demo.mp4 here. GitHub replaces it with a playable video link. -->
+
+*66 seconds, no sound, interface in French.* A farmer signs up and adds a plot (wheat, 32 m²). AquaToken
+calculates its monthly water quota (3,360 L). The farmer logs water usage, sends tokens to another farmer with a
+6-digit code, then opens the dashboard: usage vs quota, the token balance, and WaterGPT's advice.
+
 ## 💡 The idea
 
 Tunisia faces severe water stress, and agriculture is its biggest water consumer. **AquaToken** turns water savings into a real reward:
@@ -113,8 +121,8 @@ Real-time alerts for transfers and rewards, with an unread counter.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yassinemaazaoui114-git/WaterGPT.git
-cd WaterGPT
+git clone https://github.com/yassinemaazaoui114-git/AquaToken.git
+cd AquaToken
 ```
 
 ### 2. Backend
@@ -313,7 +321,7 @@ Full interactive docs at **http://localhost:8000/docs**.
 <summary><b>Click to expand</b></summary>
 
 ```text
-WaterGPT/
+AquaToken/
 ├── backend/
 │   ├── main.py                 # FastAPI app + /chat + /health
 │   ├── database.py             # SQLAlchemy models

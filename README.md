@@ -24,7 +24,9 @@ Use less than your quota, earn tokens, and trade them for farming equipment.
 
 ## 🎬 Demo
 
-<!-- DEMO VIDEO: in the GitHub web editor, delete this comment line and drag demo.mp4 here. GitHub replaces it with a playable video link. -->
+
+https://github.com/user-attachments/assets/b7a45f83-0cf0-4876-8f4b-7049a566113d
+
 
 *66 seconds, no sound, interface in French.* A farmer signs up and adds a plot (wheat, 32 m²). AquaToken
 calculates its monthly water quota (3,360 L). The farmer logs water usage, sends tokens to another farmer with a
